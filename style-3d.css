@@ -100,12 +100,12 @@ nav .button{
         grid-template-columns: repeat(2,1fr);
     }
     .content img{
-        height: 30vh;
-        width: 35vw;
+        height: 75%;
+        width: 90%;
     }
     .content img:hover{
-        height: 33vh;
-        width:38vw;
+        height: 80%;
+        width:95%;
     }
    
 }
@@ -117,25 +117,24 @@ nav .button{
         grid-template-columns: repeat(1,1fr);
     }
     .content img{
-        height: 40vh;
-        width: 60vw;
+        height: 75%;
+        width: 80%;
     }
     .content img:hover{
-        height: 43vh;
-        width:65vw;
+        height: 80%;
+        width:85%;
     }
    
 }
 @media screen and (max-width: 500px){
     .content img{
-        height: 35vh;
-        width: 70vw;
+        height: 75%;
+        width: 75%;
     }
     .content img:hover{
-        height: 38vh;
-        width:75vw;
-    }
-
+        height: 80%;
+        width:80%;
+    %
 }
 @media screen and (max-width: 467px){
     html{
@@ -145,12 +144,12 @@ nav .button{
         grid-template-columns: repeat(1,1fr);
     }
     .content img{
-        height: 30vh;
-        width: 70vw;
+        height: 75%;
+        width: 90%;
     }
     .content img:hover{
-        height: 33vh;
-        width:75vw;
+        height: 80%;
+        width:95%;
     }
 
 }
@@ -159,12 +158,12 @@ nav .button{
         font-size: 55%;
     }
     .content img{
-        height: 25vh;
-        width: 80vw;
+        height: 85%;
+        width: 95%;
     }
     .content img:hover{
-        height: 29vh;
-        width:85vw;
+        height: 95%;
+        width:100%;
     }
 }
 @media screen and (max-width: 300px){
@@ -178,11 +177,11 @@ nav .button{
 }
 @media screen and (max-width: 280px){
     .content img{
-        height: 22vh;
-        width: 80vw;
+        height: 75%;
+        width: 95%;
     }
     .content img:hover{
-        height: 25vh;
-        width:85vw;
+        height: 80%;
+        width:100%;
     }
 }
