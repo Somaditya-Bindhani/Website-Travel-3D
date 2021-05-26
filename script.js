@@ -31,7 +31,7 @@ let letter="";
         count++;
         index=0;
     }
-    setTimeout(type,300);
+    setTimeout(type,400);
 
 })();
 
